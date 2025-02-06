@@ -8,13 +8,13 @@ Project description:
 Background: We have the accidents dataset that has multiple factors, and we have dataset with 307973 and total 23 columns and we are trying to find those factors relation to accidents in UK.
 
 Aims: -
-1-	Accidents by month over period of 2021 and 2022
-2-	Accidents relation to weather conditions versus severity of accidents
-3-	Accidents relation to urban or rural area
-4-	Total number of casualties by month in 2021 and 2022 by road type
-5-	Accidents by Light conditions
-6-	Number of accidents relation by Road Surface Conditions
-7-	Number of accidents by severity
+•	Accidents by month over period of 2021 and 2022
+•	Accidents relation to weather conditions versus severity of accidents
+•	Accidents relation to urban or rural area
+•	Total number of casualties by month in 2021 and 2022 by road type
+•	Accidents by Light conditions
+•	Number of accidents relation by Road Surface Conditions
+•	Number of accidents by severity
 
 Methodology:
 Pandas, Matplotlib, SciPy and numpy
@@ -34,9 +34,6 @@ References:
 https://www.kaggle.com/datasets/xavierberge/road-accident-dataset?
 Chatgbt
 
-
-
-
 Summary of findings:
 Expectations:
 •	Poor weather leads to more accidents and severity of accidents - Result “False”
@@ -53,3 +50,10 @@ Analysis showed that urban areas have a greater number of accidents than rural a
 Analysis showed that more casualties happened on single carriageway road. So, our statement is true. 
 •	Slight severity accidents happen more – Result “True”
 Analysis showed that more “slight severity accidents” happened more. So, our statement is true. 
+
+•	Accidents by month over period of 2021 and 2022
+Year 2021: Overall, we see accidents mostly happen during month of November and lowest in February.
+
+Year 2021: Overall, we see accidents mostly happen during month of November and lowest in December.
+
+
