@@ -20,9 +20,9 @@ We have the accidents dataset that has multiple factors, and we have dataset wit
 Pandas, Matplotlib, SciPy and numpy
 
 ## Outcomes:
-# Importance of doing this analysis: 
+### Importance of doing this analysis: 
 This analysis will help us to find six main factors mentioned above effecting accidents in UK and their relation to it as per the “Road accident dataset”
-# Expectations:
+### Expectations:
 1.	Poor weather leads to more accidents and severity of accidents
 2.	Urban areas have more accidents than rural areas
 3.	More casualties happen on single carriageway road
@@ -30,7 +30,7 @@ This analysis will help us to find six main factors mentioned above effecting ac
 5.	Poor road condition leads to more accidents
 6.	Slight severity accidents happen more
 
-# References:
+## References:
 https://www.kaggle.com/datasets/xavierberge/road-accident-dataset?
 https://natural-resources.canada.ca/energy-efficiency/transportation-energy-efficiency/personal-vehicles/autosmart-driver-training
 Chatgbt
