@@ -1,5 +1,5 @@
-Project proposal (Group 1)
-Members = Patrick Yau, Sami Bsata & Sharanjit Singh
+# Project proposal (Group 1) #
+### Members = Patrick Yau, Sami Bsata & Sharanjit Singh ###
 
 Project topic: Road accidents in UK and different factors contributing to cause of accidents.
 
